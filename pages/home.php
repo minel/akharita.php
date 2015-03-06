@@ -13,19 +13,10 @@
 			<span>Biz Kimiz?</span>
 		</div>
 		<div class="info1-abs">
-			<span>I'm a Paragraph.
-				Click here to add your own text and edit me.
-			  	It’s easy.
-			   	Just click “Edit Text” or double click me
-			    and you can start adding your own content and
-			    make changes to the font.
-			    </br></br>
-			    I'm a Paragraph.
-				Click here to add your own text and edit me.
-			  	It’s easy.
-			   	Just click “Edit Text” or double click me
-			    and you can start adding your own content and
-			    make changes to the font.
+			<span>2006 yılında kurulan AkHarita profesyonel ekibiyle mühendislk firmalarına haritacılıkla ilgili hizmetlerine ihtiyaç duyan diğer tüm müşterilere hizmet sunmak amacıyla kurulmuştur.
+                </br>
+                </br>
+                Gerek inşaat sektörü gerek Alüminyum sektöründe birçok firmaya çözüm ortaklığında bulunmuştur.
 			</span>
 		</div>
 	</div>
@@ -35,19 +26,11 @@
 		</div>
 		<div class="info1-abs">
 			<span>
-				I'm a Paragraph.
-				Click here to add your own text and edit me.
-			  	It’s easy.
-			   	Just click “Edit Text” or double click me
-			    and you can start adding your own content and
-			    make changes to the font.
-			    </br></br>
-			    I'm a Paragraph.
-				Click here to add your own text and edit me.
-			  	It’s easy.
-			   	Just click “Edit Text” or double click me
-			    and you can start adding your own content and
-			    make changes to the font.
+				Müşteri memnuniyetini temel alan hizmetler ve çözümler sunmak.
+                </br></br>
+                Hızlı doğru ve hatasız çalışma prensibi doğrultusunda müşterilerimizle güvene dayalı kalıcı ilişkiler sürdürmek.
+			    
+			    
 			</span>
 		</div>
 	</div>
