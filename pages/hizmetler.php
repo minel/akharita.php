@@ -1,4 +1,4 @@
-<div class="hizmetler-head">
+<div class="pages-head">
 	<h1>Hizmetlerimiz</h1>
 	<h3>Size en iyi hizmeti verebilmek için tüm uzmanlığımızı konuşturuyoruz.</h4>
 </div>
@@ -85,7 +85,6 @@
 				Restorasyon Projeleri,      
 
 				Restitüsyon Projeleri,
-
 				
 				Eski Eser Röleve çalışmaları için Lazer Total Station kullanılmaktadır.
 			</span>

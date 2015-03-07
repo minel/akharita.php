@@ -16,7 +16,7 @@
     			<div class="nav-menu">
     				<ul id="menu">
     					<li><a href="/akharita">ANASAYFA</a></li>
-    					<li><a href="#">HAKKIMIZDA</a></li>
+    					<li><a href="?page=hakkimizda">HAKKIMIZDA</a></li>
     					<li><a href="?page=hizmetler">HİZMETLERİMİZ</a></li>
     					<li><a href="#">REFERANSLAR</a></li>
     					<li><a href="#">PROJELER</a></li>
@@ -40,7 +40,7 @@
 			switch($Sayfa){
 		
 			case 'hizmetler' : include('pages/hizmetler.php'); break;
-			case 'Sayfa2' : include('Sayfa/Sayfa2.php'); break;
+			case 'hakkimizda' : include('pages/hakkimizda.php'); break;
 			case 'Sayfa3' : include('Sayfa/Sayfa3.php'); break;
 			
 			default : include('pages/home.php'); break;
