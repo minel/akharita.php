@@ -263,6 +263,7 @@ ul.special li a:hover{
 
 .hizmetler-head{
     margin-left: 7px;
+    margin-bottom: 25px;
 }
 
 .hizmetler-head h1{
@@ -278,15 +279,16 @@ ul.special li a:hover{
 }
 
 .hizmetler-contains{
-    height: 450px;
+    height: 425px;
 }
 
 .hizmet{
     float: left;
     width: 305px;
-    height: 100px;
+    height: 200px;
     margin-right: 10px;
     margin-left: 5px;
+    margin-bottom: 20px;
 }
 
 .mr0{
@@ -313,4 +315,15 @@ ul.special li a:hover{
 
 .h2{
     background-image: url('../images/background22.png');
+}
+
+.hz-context{
+    padding: 0 15px;
+    text-align: justify;
+}
+
+.hz-context span{
+    font-family: 'Open Sans', sans-serif;
+    color: #545658;;
+    font-size: 13px;
 }
