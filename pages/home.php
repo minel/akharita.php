@@ -41,7 +41,7 @@
 		</br>
 		<span>TELEFON:</span>
 		</br>
-		0212 444 44 44
+		+90 (532) 588 07 90
 		</br>
 		</br>
 		<span>MAIL:</span>

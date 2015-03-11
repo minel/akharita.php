@@ -56,11 +56,10 @@
                     <div class="item-pic">
                         <img src="images/visit.png">
                     </div>
-                    <div class="item-detail" style="width:350px;">
+                    <div class="item-detail">
                         <h5>Adres</h5>
                         <span>
-                            500 Terry Francois Street
-                            San Francisco, CA 94158
+                            Özyurtlar N Towers b4 blok / Haramidere Esenyurt
                         </span>
                     </div>
                 </div>
@@ -71,7 +70,7 @@
                     <div class="item-detail">
                         <h5>Telefon</h5>
                         <span>
-                            T: 123-456-7890
+                            T: +90 (532) 588 07 90
                         </span>
                     </div>
                 </div>
@@ -82,7 +81,7 @@
                     <div class="item-detail">
                         <h5>İletişim</h5>
                         <span>
-                            info@mysite.com
+                            info@akharita.com
                         </span>
                     </div>
                 </div>
@@ -90,7 +89,7 @@
                     <div class="item-pic">
                         <img src="images/copyright.png">
                     </div>
-                    <div class="item-detail">
+                    <div class="item-detail mr0">
                         <h5>
                             Copyright
                         </h5>
