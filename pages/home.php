@@ -13,7 +13,7 @@
 			<span>Biz Kimiz?</span>
 		</div>
 		<div class="info1-abs">
-			<span>2006 yılında kurulan AkHarita profesyonel ekibiyle mühendislk firmalarına haritacılıkla ilgili hizmetlerine ihtiyaç duyan diğer tüm müşterilere hizmet sunmak amacıyla kurulmuştur.
+			<span>2006 yılında kurulan AkHarita profesyonel ekibiyle mühendislik firmalarına haritacılıkla ilgili hizmetlerine ihtiyaç duyan diğer tüm müşterilere hizmet sunmak amacıyla kurulmuştur.
                 </br>
                 </br>
                 Gerek inşaat sektörü gerek Alüminyum sektöründe birçok firmaya çözüm ortaklığında bulunmuştur.

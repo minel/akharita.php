@@ -263,20 +263,20 @@ ul.special li a:hover{
 
 .pages-head{
     margin-left: 7px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
-.pages-head h1{
+.pages-head h1, h3, .hakkimizda-contains h2{
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
     color: #545658;
 }
 
 .pages-head h3{
-    font-family: 'Open Sans', sans-serif;
-    font-weight: normal;
-    color: #545658;
+    margin-left: 10px;
 }
+
+
 
 .hizmetler-contains{
     height: 425px;
@@ -327,3 +327,22 @@ ul.special li a:hover{
     color: #545658;;
     font-size: 13px;
 }
+
+.hakkimizda-contains{
+    padding: 0px 10px 10px 10px;
+    height: 425px;
+    
+}
+
+.hakkimiz{
+    height: 150px;
+}
+
+.hakkimiz span{
+    float: left;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    
+    color: #545658;
+}
+
